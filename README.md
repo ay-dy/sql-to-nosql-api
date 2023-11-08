@@ -1,6 +1,6 @@
 # SQL to NoSQL Conversion Tool (Back-End)
 
-This Sql to NoSQL Conversion Tool Node.js & Express.js server code for the 2023 Project (6G6Z1101_2223_9Z6). I have used the MDN Web Docs deneral, as well JS-specific, code styling guidelines.
+This Sql to NoSQL Conversion Tool Node.js & Express.js server code for the 2023 Project (6G6Z1101_2223_9Z6). I have used the MDN Web Docs general, as well JS-specific, code styling guidelines.
 
 https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide
 
